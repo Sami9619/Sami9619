@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi, I'm Sami 👋
 
-<!--
-**Sami9619/Sami9619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software at the intersection of industrial tech,
+AR/VR, and systems development — from prototype to production.
 
-Here are some ideas to get you started:
+Four years in advanced development at a safety and automation technology company
+taught me to dive into new domains quickly, work independently,
+and drive ideas through to something that actually ships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I build
+
+- **AR/VR** – Applications with ARKit/RealityKit (iOS) and Three.js (Web)
+- **Fullstack tools** – Python · FastAPI · JavaScript · Electron · SQLite
+- **Embedded-adjacent software** – MQTT, REST, sensor integration, firmware tooling
+- **Desktop apps** – C# · Windows Forms
+
+---
+
+### Stack
+
+| | |
+|---|---|
+| **Languages** | Python · JavaScript · Swift · C# · C++ · Java · SQL |
+| **AR/VR** | ARKit · RealityKit · Three.js |
+| **Backend** | FastAPI · Django (learning) · REST · MQTT |
+| **Frontend** | HTML · CSS · React (learning) · Electron |
+| **Databases** | SQLite · MS SQL Server · MySQL |
+
+---
+
+### Currently
+
+🔍 Open to new roles in the Stuttgart area –  
+Web · Fullstack · Mobile · Desktop · AR/VR · Robotics · R&D.
+
+📫 [LinkedIn](www.linkedin.com/in/sami-hazzouri-4751222a1)
